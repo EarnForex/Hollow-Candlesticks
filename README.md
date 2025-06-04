@@ -6,6 +6,6 @@ It is recommended to set your MetaTrader's chart colors to None to leave only th
 
 ![Example hollow candlestciks chart in MT5](https://github.com/EarnForex/Hollow-Candlesticks/blob/main/hollow-candlesticks-indicator-chart.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Hollow-Candlesticks/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Hollow-Candlesticks/
 
 Any contributions to the code are welcome!
